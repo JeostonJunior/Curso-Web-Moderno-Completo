@@ -23,5 +23,5 @@ uno.acelerar();
 console.log(uno.getVelocidadeAtual());
 
 const supra = new Carro(350, 20);
-supra.acelerar(); 
+supra.acelerar();
 console.log(supra.getVelocidadeAtual());
